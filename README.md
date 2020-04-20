@@ -1,5 +1,5 @@
-# angular-8-custom-modal
+# Angular 8 Modal
 
-Angular 8 Custom Modal with Angular CLI
+This project uses angular 8 to implement a custom modal you can use anywhere in your appplication, it does not require `@angular/cdk` to work, only a service and a modal component.
 
-Demo and documentation at https://jasonwatmore.com/post/2019/07/12/angular-8-custom-modal-window-dialog-box
+Run `ng serve` to test your project and then click on the buttons in the main view to get started.
